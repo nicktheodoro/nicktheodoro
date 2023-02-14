@@ -1,8 +1,6 @@
 <h1 align="center">Olá, sou Nicolas Theodoro Lopes</h1>
 <h3 align="center">Fullstack Web Developer - Desenvolvedor web na linha de produtos de gestão empresarial, desenvolvimento ERP.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nicktheodoro&label=Profile%20views&color=0e75b6&style=flat" alt="nicktheodoro" /> </p>
-
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicktheodoro&show_icons=true&theme=dark&locale=en" alt="nicktheodoro" /></p>
 
 <h3 align="left">Conecte-se comigo:</h3>
