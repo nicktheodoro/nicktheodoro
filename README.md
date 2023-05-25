@@ -2,16 +2,20 @@
 <h4 align="center">Desenvolvedor web na linha de produtos de gestão empresarial, desenvolvimento ERP.</h4>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicktheodoro&layout=donut&theme=dracula&hide=css"/>
-<p>
-
-<p align="center">
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nicktheodoro&show_icons=true&theme=dracula&" alt="nicktheodoro" />
-</p>
-
-<br />
-<p align="center">
-<a href="https://linkedin.com/in/nicolas-theodoro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas-theodoro" height="30" width="40" /></a>
+  <a href="https://github.com/nicktheodoro">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicktheodoro&theme=transparent" />
+  </a>
+  <a href="https://github.com/nicktheodoro">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicktheodoro&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/nicktheodoro">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nicktheodoro&theme=transparent" />
+  </a>
+  <a href="https://github.com/nicktheodoro">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicktheodoro&langs_count=5&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+  <br />
+  <a href="https://linkedin.com/in/nicolas-theodoro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas-theodoro" height="30" width="40" /></a>
 <a href="https://twitter.com/nictheodoro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Nicolas Theodoro#0310" height="30" width="40" /></a>
 <a href="https://discord.gg/Nicolas Theodoro#0310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Nicolas Theodoro#0310" height="30" width="40" /></a>
 </p>
