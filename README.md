@@ -1,5 +1,11 @@
 <h1 align="center">Nicolas Theodoro Lopes - Web Developer</h1>
+<br />
 <h4 align="center">Desenvolvedor web na linha de produtos de gestão empresarial, desenvolvimento ERP.</h4>
+
+<p align="center">
+  <a href="https://badgr.com/public/badges/M57w46FfRhaOMQpg1dntqQ">
+    <img src="https://api.badgr.io/public/assertions/L9JBgM-SSNilPQlNmC17JQ/image" height="150"/>
+  </a>
 
 <p align="center">
   <a href="https://github.com/nicktheodoro">
