@@ -18,7 +18,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nicktheodoro&theme=transparent" />
   </a>
   <a href="https://github.com/nicktheodoro">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicktheodoro&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicktheodoro&card_width=699&hide_border=true&theme=transparent" />
   </a>
   <br />
   <a href="https://linkedin.com/in/nicolas-theodoro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas-theodoro" height="30" width="40" /></a>
