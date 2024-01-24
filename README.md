@@ -1,4 +1,4 @@
-<h1 align="center">Nicolas Theodoro Lopes - Web Developer</h1>
+<h1 align="center">Nicolas Theodoro Lopes - BackEnd Developer</h1>
 <br />
 <h4 align="center">Desenvolvedor web na linha de produtos de gestão empresarial, desenvolvimento ERP.</h4>
 
