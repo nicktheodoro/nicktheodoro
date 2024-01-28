@@ -1,6 +1,6 @@
-<h1 align="center">Nicolas Theodoro Lopes - BackEnd Developer</h1>
+<h1 align="center">Nicolas Theodoro Lopes - Backend Developer</h1>
 <br />
-<h4 align="center">Desenvolvedor web na linha de produtos de gestão empresarial, desenvolvimento ERP.</h4>
+<h4 align="center">Backend web na linha de produtos de gestão empresarial, desenvolvimento ERP.</h4>
 
 <p align="center">
   <a href="https://badgr.com/public/badges/M57w46FfRhaOMQpg1dntqQ">
