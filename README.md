@@ -3,7 +3,7 @@
 <h4 align="center">Backend web na linha de produtos de gestão empresarial, desenvolvimento ERP.</h4>
 
 <p align="center">
-  <a href="https://badgr.com/public/badges/M57w46FfRhaOMQpg1dntqQ">
+  <a href="https://api.badgr.io/public/assertions/L9JBgM-SSNilPQlNmC17JQ?identity__email=nicolastheodoro%40gmail.com">
     <img src="https://api.badgr.io/public/assertions/L9JBgM-SSNilPQlNmC17JQ/image" height="150"/>
   </a>
 
