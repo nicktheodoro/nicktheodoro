@@ -1,5 +1,5 @@
-<h1 align="center">Nicolas Theodoro Lopes - Backend Developer</h1>
-<h3 align="center">Backend web na linha de produtos de gestão empresarial, desenvolvimento ERP.</h3>
+<h1 align="center">Nicolas Theodoro Lopes</h1>
+<h3 align="center">Backend na linha de produtos de gestão empresarial web, desenvolvimento ERP.</h3>
 
 <p align="center">
   <a href="https://github.com/nicktheodoro">
